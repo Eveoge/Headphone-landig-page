@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainContainer{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.innerContainer{
+    border: 3px solid red;
+    width: 90%;
+}
+.container1{
+   border: 1px solid black; 
+  /* margin-top: 7em; */
+   padding: 5%; 
+   /* background-color: rgba(34, 139, 34, 0); */
+   height: 20em;
+   width: 100%;
+   /* margin-left: 30%; */
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 140%;
+   background: url(/Hair\ products.jpg) rgba(0, 0, 0, 0.632);
+   background-blend-mode: darken;
+   /* opacity: 50%; */
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: rgb(237, 197, 18);
+   background-position: center;
+   
+
+
+}
+.oge{
+    margin-top: 2em;
+    margin-left: 80%;
+    /* border: 1px solid black; */
+    width: 5em;
+    color: rgb(20, 193, 92);
+    font-style: italic;
+    justify-content: center;
+    font-size: 40px;
+    
+}
+.abua{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+    width: 60%;
+}
+.call{
+   /* border: 1px solid black; */
+   width: 7em;
+   font-size: 80%;
+   padding: 4px;
+   color: rgb(209, 195, 195);
+   background-color: rgb(88, 126, 63);
+   border-radius: 6px;
+}
+.container2{
+border: 1px solid black;
+height: 73em;
+width: 100%;
+
+}
+.ofu{
+    /* border: 1px solid black; */
+    height: 30px;
+    width: 30px;
+    color: rgb(250, 17, 17);
+}
+.container3{
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+   justify-content: space-between;
+
+}
+.container4{
+    border: 1px solid rgb(233, 228, 228);
+    height: 40%;
+    width: 60;
+    background:url(/workshop\ woman.jpg)   ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ato{
+    border: 1px solid rgb(232, 222, 222);
+    height: 10em;
+    width: 20em;
+    padding: 3%;
+    justify-content: center;
+    margin-left: 15%;
+    margin-top: 15%;
+    color: rgba(10, 20, 20, 0.85);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ano{
+    /* border: 1px solid rgb(179, 13, 13); */
+    width: 56.5em;
+    height: 28em;
+    /* background-color: blue; */
+    display: flex;
+}
+.ise{
+    border: 1px solid black;
+    height: 25em;
+    width: 29em;
+    background: url(/modern\ sitting\ room.png);
+    background-size: 100%;
+    margin-top: 40px;
+}
+    .isi{
+        /* border: 1px solid black; */
+        margin-left: 50px;
+        margin-top: 40px;
+        height: 23em;
+        width: 25em;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    } .isi h6{
+        color: red;
+        /* border: 1px solid blue; */
+        margin-top: none;
+    }
+    .isi p{
+        color: red;
+        /* border: 1px solid greenyellow; */
+        margin-bottom: 15px;
+        margin-top: 25px;
+    }
+.isi h4{
+    margin-block-start: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+

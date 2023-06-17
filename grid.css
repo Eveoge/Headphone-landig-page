@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cont2{
+    display: flex;
+    justify-content: center;
+
+    border: 1px solid black;
+    margin-top: 10em;
+    display: grid;
+    grid-template-columns: 80px 90px 90px  90px;
+    grid-template-rows: 90px 120px 150px 100px;
+    /* grid-gap: 10px; */
+
+}
+.ghanaweaving1{
+    border: 2px solid gold;
+}
+.allback{
+    /* grid-row-start: 1; */
+    /* grid-row-end: 4; */
+
+}

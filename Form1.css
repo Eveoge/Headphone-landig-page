@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.formsection{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+legend{
+    margin-left: 20px;
+    font-size: 22px;
+
+}
+.one fieldset{
+    border: 1px solid rgba(255, 0, 0, 0.695);
+    width: 100%;
+}
+.two{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.three{
+    display: flex;
+}
+label{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#customer{
+    width: 42em;
+    height: 35px;
+    margin-left: 20px;
+}
+#compname{
+    width: 42em;
+    height: 35px;
+    margin-left: 35px;
+}
+#address{
+    width: 42em;
+    height: 35px;
+    margin-bottom: 40px;
+    margin-left: 45px;
+}
+.three2{
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+#postal{
+    width: 8em;
+    height: 32px;
+    margin-left: 20px;
+}
+#city{
+    margin-left: 100px;
+    width: 26em;
+    height: 20px;
+    margin-top: 20px;
+}
+.four{
+    display: flex;
+    margin-top: 20px;
+
+}
+
+#state{
+    width: 5em;
+    height: 32px;
+    border: 0.5px solid rgba(255, 0, 0, 0.597);
+    margin-left: 20px;
+    background: rgb(200, 195, 195);
+}
+.four2{
+    margin-left: 40px;
+}
+#country{
+    width: 5em;
+    height: 32px;
+    border: 0.5px solid rgba(255, 0, 0, 0.597);
+      margin-left: 60px;
+      background: rgb(200, 195, 195);
+}
+.five fieldset{
+    border: 0.5px solid rgb(243, 159, 128);
+    margin-top: 20px;
+}
+.six{
+    display: flex;
+}
+.six2{
+    margin-left: 8em;
+}
+.seven{
+    display: flex;
+}
+.seven2{
+    margin-left: 20px;
+    margin-top: 5.5em;
+    font-size: 21px;
+}
+#clientsname{
+width: 42em;
+height: 35px;
+margin-left: 200px;
+
+}
+#telephone{
+    width: 15em;
+height: 35px;
+margin-left: 157px;
+}
+#extnumb{
+width: 7em;
+height: 35px;
+margin-left: 80px;
+
+}
+
+#email{
+width: 42em;
+height: 35px;
+margin-left: 200px;
+}
+#username{
+    width: 42em;
+    height: 35px;
+    margin-left: 155px;
+}
+#password{
+    width: 42em;
+    height: 35px;
+    margin-left: 160px;
+}
+#password1{
+    width: 42em;
+    height: 35px;
+    margin-left: 75px;
+}
+#securityQ{
+    width: 42em;
+    height: 20px;
+    margin-left: 78px;
+
+}
+#securityans{
+    width: 42em;
+    height: 35px;
+    margin-left: 90px;
+}

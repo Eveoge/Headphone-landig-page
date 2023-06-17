@@ -1,0 +1,259 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    padding: 0%;
+}
+
+.container1{
+    border: 3px solid black;
+    height: 120em;
+    /* width: 100%; */
+}
+.container1a{
+    border: 1px solid transparent;
+    height: 44em;
+    /* width: 100%; */
+    background: url(headphone4.jfif);
+    background-size: cover;
+    background-position: left;
+}
+.one{
+    /* border: 2px solid white; */
+    margin-left: 10em;
+    width: 17em;
+    height: 10em;
+    margin-top: 15em;
+    font-size: 130%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.one button{
+    border: 1px solid transparent;
+    height: 2.5em;
+    width: 8em;
+    padding: 4px;
+    border-radius: 30px;
+}
+
+.one button:hover{
+    background: purple;
+    cursor: pointer;
+    transform: scale(130%);
+    color: pink;
+}
+
+.container1b{
+    border: 1px solid transparent;
+    height: 11em;
+    /* width: 100%; */
+    background: whitesmoke;
+}
+.three{
+    margin-top: 20px;
+    margin-left: 9%;
+    /* border: 1px solid black; */
+    width: 35em;
+}
+.three h6{
+    margin-left: -1%;
+    margin-top: 5px;
+    /* border: 1px solid rgb(2, 56, 174); */
+    font-size: 20px;
+
+}
+.three h2{
+    /* border: 1px solid rgb(171, 3, 3); */
+    height: 6em;
+    width: 60em;
+    font-size: 18px;
+    margin: 4px;
+}
+.container1c{
+    border: 1px solid transparent;
+    height: 3.8em;
+    width: 100%;
+    background: rgb(221, 203, 7);
+    color: white;
+    margin-top: -8px;
+}
+.container1c h5{
+    margin-top: 0.5em;
+    margin-left: 31%;
+    font-size: 25px;
+}
+.container1d{
+/* border: 1px solid rgb(218, 21, 21); */
+width: 100%;
+height: 45em;
+}
+.container1d h3{
+    /* border: 1px solid orange; */
+    margin-top: 2em;
+    margin-bottom: 10px;
+    width: 70%;
+    margin-left: 13%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container1e{
+    /* border: 1px solid rgb(105, 10, 199); */
+    height: 15em;
+    width: 75%;
+    margin-left: 13%;
+    display: flex;
+    justify-content: space-between;
+}
+.container1f{
+    /* border: 1px solid black; */
+    height: 10em;
+    width: 19em;
+    background: url(/headpone8.jfif);
+    background-size: cover;
+}
+.four{
+    border: 1px solid transparent;
+    height: 5.8em;
+    width: 21.1em;
+    margin-top: 8.2em;
+    font-size: 90%;
+    justify-content: space-between;
+    background: #edcf0cf3;
+    
+}
+.container1fa{
+    /* border: 1px solid black; */
+    height: 10em;
+    width: 19em;
+    background: url(headphone\ 7.jfif);
+    background-size: cover;
+   
+}
+.container1fb{
+    /* border: 1px solid black; */
+    height: 10em;
+    width: 19em;
+    background: url(headphone6.jfif);
+    background-size: cover;
+}
+.container1f button{
+    margin-top: 1em;
+    margin-left: 1em;
+    padding: 5px;
+    border-radius:10px;
+    background: yellow;
+    border: 1px solid transparent;
+}
+.container1fa button{
+    margin-top: 1em;
+    margin-left: 1em;
+    padding: 5px;
+    border-radius:10px;
+    background: yellow;
+    border: 1px solid transparent;
+}
+.container1fb button{
+    margin-top: 1em;
+    margin-left: 1em;
+    padding: 5px;
+    border-radius:10px;
+    background: yellow;
+    border: 1px solid transparent;
+}
+.four h5{
+    /* border: 1px solid black; */
+    margin-top: 7%;
+    margin-left: 7%;
+    margin-bottom: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.four h4{
+    color:aliceblue;
+    margin-left: 8%;
+}
+.container1g{
+    /* border: 1px solid rgb(105, 10, 199); */
+    height: 18em;
+    width: 79%;
+    margin-left: 10%;
+    margin-top: 20px;
+    
+}
+.five{
+    /* border: 1px solid orange; */
+    margin-top: 2em;
+    margin-bottom: 10px;
+    font-size: 140%;
+    width: 70%;
+    margin-left: 13%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container1h{
+    /* border: 1px solid red; */
+    width: 95%;
+    margin-left: 4%;
+display: flex;
+justify-content: space-between;
+}
+
+.six{
+    /* border: 1px solid black; */
+    height: 9em;
+    width: 14.5em;
+    background: url(/headphone9.jfif);
+    background-size: cover;
+
+}.seven{
+    /* border: 1px solid black; */
+    height: 9em;
+    width: 14.5em;
+    background: url(/headphone10.jfif);
+    background-size: cover;
+
+}
+.eight{
+    /* border: 1px solid black; */
+    height: 9em;
+    width: 14.5em;
+    background: url(/headphones11.jfif);
+    background-size: cover;
+
+}
+.nine{
+    /* border: 1px solid black; */
+    height: 9em;
+    width: 14.5em;
+    background: url(/headphone13.jfif);
+    background-size: cover;
+
+}.container1i{
+display: flex;
+justify-content: space-between;
+margin-top: 0.6em;
+/* border: 1px solid red; */
+width: 95%;
+margin-left: 4%;
+}
+.cont{
+    border: 1px solid black;
+    height: 40em;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: linear-gradient(40deg, yellow, yellow, yellow, rgba(223, 223, 8, 0.758), rgb(206, 200, 200), rgb(251, 251, 42), yellow, yellow, yellow); */
+    background: radial-gradient(circle, rgb(255, 223, 104), rgb(255, 200, 0));
+}
+.cont1 div{
+    border: 1px solid black;
+    height: 4em;
+    width: 4em;
+    margin-top: 10em;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-columns: 100% 100%;
+}
+
+
+.div{
+    border: 1px solid black;
+    margin: 20px;
+
+}
